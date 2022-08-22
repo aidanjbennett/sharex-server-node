@@ -1,0 +1,11 @@
+# Node
+node_modules
+
+# Editors
+.fleet
+.vscode
+.idea
+
+# Misc
+.DS_STORE
+.env
